@@ -1,4 +1,4 @@
-# Réseau interne de 3 salariées 
+# Réseau interne de Trois salariées 
 En utilisant React && Redux Toolkit, je développe le réseau interne d'une petite entreprise de trois collaboratrices pour communiquer et faire des activités entre elles.
 ##
 
