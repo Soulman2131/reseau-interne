@@ -1,4 +1,5 @@
-# Réseau interne de 3 salariées (en utilisant REACT && REDUX TOOLKIT)
+# Réseau interne de 3 salariées 
+En utilisant REACT && REDUX TOOLKIT
 
 
  Je développe le réseau interne d'une petite entreprise de trois collaboratrices pour communiquer et faire des activités entre elles.
