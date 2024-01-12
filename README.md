@@ -1,4 +1,5 @@
 # Réseau interne de 3 salariées
+(en utilisant REDUX TOOLKIT)
 ## 
  Je développe le réseau interne d'une petite entreprise de trois collaboratrices pour communiquer et faire des activités entre elles.
 
